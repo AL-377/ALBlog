@@ -1,2 +1,2 @@
-# ALBlog-Server
-The server of Aidan Lew's Blog
+# ALBlog
+The code of Aidan Lew's Blog
